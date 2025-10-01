@@ -1,1 +1,1 @@
-hello github,ini repository pertama saya.
+hello github,ini repository pertama saya
